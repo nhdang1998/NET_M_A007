@@ -1,0 +1,6 @@
+D:\FPT\NET_M_A007\NET_M_A007\bin\Debug\NET_M_A007.exe.config
+D:\FPT\NET_M_A007\NET_M_A007\bin\Debug\NET_M_A007.exe
+D:\FPT\NET_M_A007\NET_M_A007\bin\Debug\NET_M_A007.pdb
+D:\FPT\NET_M_A007\NET_M_A007\obj\Debug\NET_M_A007_Ex1.csproj.CoreCompileInputs.cache
+D:\FPT\NET_M_A007\NET_M_A007\obj\Debug\NET_M_A007.exe
+D:\FPT\NET_M_A007\NET_M_A007\obj\Debug\NET_M_A007.pdb
